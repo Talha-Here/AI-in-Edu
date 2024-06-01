@@ -1,0 +1,1 @@
+print("Ai in Edu")
