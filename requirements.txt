@@ -1,0 +1,10 @@
+audio_recorder_streamlit==0.0.8
+audiorecorder==0.1
+langchain_core==0.2.3
+langchain_openai==0.1.8
+openai==1.30.5
+Pillow==10.3.0
+playsound==1.2.2
+python-dotenv==1.0.1
+pyttsx3==2.90
+streamlit==1.35.0
