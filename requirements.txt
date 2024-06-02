@@ -8,3 +8,4 @@ playsound==1.2.2
 python-dotenv==1.0.1
 pyttsx3==2.90
 streamlit==1.35.0
+pyaudio
