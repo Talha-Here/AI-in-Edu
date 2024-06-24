@@ -25,6 +25,9 @@ Ultimate application to support your language studying proces. Put your notes, s
         -
         - [Code](https://github.com/Talha-Here/AI-in-Edu)
 
+## Hackathon 
+- [Link](https://lablab.ai/event/hello-gpt-4o-ai-challenge/ai-in-education/lang-anki-cards-on-steroids)
+
 
 
 
